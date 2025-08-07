@@ -33,7 +33,7 @@ I've been **Team Lead** on multiple school and educational projects, where I was
 - Documentation, integration & testing
 
 📌 Example project:  
-🔹 [**VacationsManager**](https://github.com/Petkata23/VacationsManager) – A vacation management platform with role-based access, approval workflows, and full-stack .NET implementation.
+🔹 [**VacationsManager**](https://github.com/NDecheva/VacationsManager) – A vacation management platform with role-based access, approval workflows, and full-stack .NET implementation.
 
 ---
 

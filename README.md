@@ -63,7 +63,7 @@ I've been **Team Lead** on multiple school and educational projects, where I was
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=FFCD3C&center=true&vCenter=true&width=800&lines=Building+real-world+.NET+apps+with+clean+architecture+and+AI-enhanced+workflows)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=6000&pause=1000&color=FFCD3C&center=true&vCenter=true&width=800&lines=Building+real-world+.NET+applications;Prompt+Engineering+%7C+Clean+Architecture+%7C+AI+Automation)
 
 ---
 

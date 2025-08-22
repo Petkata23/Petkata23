@@ -18,7 +18,7 @@ I'm passionate about clean architecture, modular design, and integrating AI tool
 
 ## 🎓 Education & Certifications
 
-- 🎓 Graduated from a high school specializing in **Applied Programming**  
+- 🎓 Graduated from a high school specializing in **Software Development**  
 - 🎯 Completed the **C# Software Engineering Program at SoftUni**  
 - 🧠 Certified in **AI Tools for Developers** and **Product Management** by SoftUni
 

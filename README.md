@@ -1,4 +1,4 @@
-# 👨‍💻 Software Engineer | Full-Stack .NET Developer | Prompt Engineering Specialist
+# 👨‍💻 Software Engineer | Full-Stack .NET Developer | AI Tools Specialist
 
 I'm a 19-year-old Software Engineer and hardware enthusiast, focused on building real-world full-stack applications using modern .NET technologies.  
 I'm passionate about clean architecture, modular design, and integrating AI tools to improve productivity and code quality.
@@ -19,7 +19,7 @@ I'm passionate about clean architecture, modular design, and integrating AI tool
 ## 🎓 Education & Certifications
 
 - 🎓 Graduated from a high school specializing in **Applied Programming**  
-- 🎯 Currently completing the **C# Software Engineering Program at SoftUni**  
+- 🎯 Completed the **C# Software Engineering Program at SoftUni**  
 - 🧠 Certified in **AI Tools for Developers** and **Product Management** by SoftUni
 
 ---
